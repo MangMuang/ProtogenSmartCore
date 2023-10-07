@@ -4,5 +4,5 @@ Write your own C Code, upload to your board through UI then your Protogen will c
 
 
 
-Developement Status : V1.0 Finised
+Developement Status : V1.0 Finished 
 Document Status : SOON!
