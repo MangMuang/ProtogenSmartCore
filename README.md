@@ -1,5 +1,5 @@
 # ProtogenSmartCore
-A place for ProtogenSmartCore doc
+Wiki, documenttation and some src
 
 Board Status : As 01-OCT-2023 -> All sold-out, new stock soon
 
