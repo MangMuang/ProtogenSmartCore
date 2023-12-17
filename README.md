@@ -10,6 +10,7 @@ Board Status : As 01-OCT-2023 -> All sold-out, new stock soon
 
 **Feature comp table**
 
+** As for DEC,2023 - RenderEngine updated to V2.0, and be able to reach over 300FPS+ on 128*32px matrix.
 ![alt text](https://github.com/MangMuang/ProtogenSmartCore/blob/main/Image/CompTable_v1.png?raw=true)
 
 By MangMuang's Elektronik
